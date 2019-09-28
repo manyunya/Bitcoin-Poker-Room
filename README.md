@@ -1,3 +1,6 @@
+
+# * TODO -> convert entire perl dependencies -> html/js
+
 Install under Ubuntu 11.10
 ==========================
 
